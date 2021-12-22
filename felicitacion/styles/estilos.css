@@ -132,7 +132,7 @@ h1{
     color: red;
     text-align: center;
     border: 5px solid darkgreen; 
-    background-image: url("./../images/jengi.png");
+    background-image: url("./../images/jengi.PNG");
     width: 1910px;
     z-index: 1;
 
